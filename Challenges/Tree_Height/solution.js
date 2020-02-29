@@ -1,4 +1,5 @@
 function solution(T) {
+    
     let l = [];
     let r = [];
     
