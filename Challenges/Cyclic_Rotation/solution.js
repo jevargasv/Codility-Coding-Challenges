@@ -1,4 +1,5 @@
 function solution(A, K) {
+    
     let rotatedArray = A;
     
     while (K > 0) {
