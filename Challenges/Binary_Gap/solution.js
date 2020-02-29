@@ -1,4 +1,5 @@
 function solution(N) {
+    
     const bin = Math.abs(N).toString("2");
     let finalMax = 0, currentMax = 0;
     
