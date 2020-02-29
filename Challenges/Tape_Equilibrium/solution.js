@@ -1,4 +1,5 @@
 function solution(A) {
+    
     let sum1 = 0;
     let sum2 = A.reduce(function(acc, i) {
         return acc + i;
