@@ -7,4 +7,5 @@ function solution(A) {
         sum -= A[i];
     }
     return sum;
+    
 }
