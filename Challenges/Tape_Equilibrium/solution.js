@@ -16,4 +16,5 @@ function solution(A) {
     }
     
     return minDiff;
+    
 }
