@@ -6,6 +6,7 @@ function solution(A) {
     for (i = 0; i < size; i++) {
         sum -= A[i];
     }
+    
     return sum;
     
 }
