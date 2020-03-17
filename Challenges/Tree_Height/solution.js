@@ -8,6 +8,7 @@ function solution(T) {
         result = 0;
         result = Math.max(result, 1 + solution(T.l));
         result = Math.max(result, 1 + solution(T.r));
+    
     return result;
     
 }
