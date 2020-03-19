@@ -1,3 +1,5 @@
+// Odd Occurences in Array
+
 function solution(A) {
     
     let result;
