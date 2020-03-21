@@ -1,3 +1,5 @@
+// Binary Gap
+
 function solution(N) {
     
     const bin = Math.abs(N).toString("2");
@@ -15,6 +17,5 @@ function solution(N) {
     }
     
     return parseInt(finalMax);
-    
     
 }
