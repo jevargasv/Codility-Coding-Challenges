@@ -1,4 +1,4 @@
-// Cyclic Rotation
+// Cyclic Rotation (Practice)
 
 function solution(A, K) {
     
