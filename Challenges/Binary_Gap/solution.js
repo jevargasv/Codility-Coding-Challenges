@@ -1,4 +1,4 @@
-// Binary Gap
+// Binary Gap (Practice)
 
 function solution(N) {
     
