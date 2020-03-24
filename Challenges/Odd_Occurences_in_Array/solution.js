@@ -1,4 +1,4 @@
-// Odd Occurences in Array
+// Odd Occurences in Array (Practice)
 
 function solution(A) {
     
