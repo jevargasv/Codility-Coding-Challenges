@@ -1,3 +1,5 @@
+// Tape Equilibrium (Practice)
+
 function solution(A) {
     
     let sum1 = 0;
