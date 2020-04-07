@@ -16,3 +16,4 @@ function solution(A, K) {
     return rotatedArray;
     
 }
+
