@@ -19,3 +19,4 @@ function solution(N) {
     return parseInt(finalMax);
     
 }
+
